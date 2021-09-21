@@ -16,6 +16,7 @@ h1{
 }
 h2{
     color: palevioletred;
+    font-size: x-large;
 }
 li{
     list-style: none;
@@ -32,7 +33,7 @@ button{
     margin-left:1rem; 
     box-shadow: 1px 4px rgb(89, 131, 7); 
     cursor: pointer;  
-    font-size: x-large;
+    font-size: larger;
 }
 button:active {
     transform: scale(0.92);
