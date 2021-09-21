@@ -32,6 +32,7 @@ button{
     margin-left:1rem; 
     box-shadow: 1px 4px rgb(89, 131, 7); 
     cursor: pointer;  
+    font-size: x-large;
 }
 button:active {
     transform: scale(0.92);
@@ -40,5 +41,5 @@ button:active {
 }
 body{
     background-image :linear-gradient(to bottom right,rgb(200,250,80),rgb(100,150,120));
-    height: 40rem;
+    height: 60rem;
 }
